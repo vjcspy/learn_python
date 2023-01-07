@@ -1,4 +1,4 @@
-# Algorithm
+# Just practicing some algorithms with python
 
 ## Week 1
 
