@@ -1,10 +1,16 @@
-# Just practicing some algorithms with python
+<h1 align="center">Just Practicing Some Algorithms With Python</h1>
+<h1 align="center">Luyện Thuật Toán Với Python</h1>
+
+<div align="center">
+    <img src="assets/logo.svg" alt="" width="400" />
+  <br />
+</div>
 
 ## Week 1
 
 - [x] 1 [Two Sum](https://leetcode.com/problems/two-sum) Easy·15 mins·Array
 
-- Use hash table for *optimization*
+- Use hash table for _optimization_
 
 - [x] 2 [Valid Parentheses](https://leetcode.com/problems/valid-parentheses) Easy·20 mins·Stack
 
@@ -45,15 +51,11 @@
 
 Easy·20 mins·Binary Search
 
-
-
 - [ ] 2
 
 [Ransom Note](https://leetcode.com/problems/ransom-note)
 
 Easy·15 mins·Hash Table
-
-
 
 - [ ] 3
 
@@ -61,15 +63,11 @@ Easy·15 mins·Hash Table
 
 Easy·20 mins·Dynamic Programming
 
-
-
 - [ ] 4
 
 [Longest Palindrome](https://leetcode.com/problems/longest-palindrome)
 
 Easy·20 mins·String
-
-
 
 - [ ] 5
 
@@ -77,15 +75,11 @@ Easy·20 mins·String
 
 Easy·20 mins·Linked List
 
-
-
 - [ ] 6
 
 [Majority Element](https://leetcode.com/problems/majority-element)
 
 Easy·20 mins·Array
-
-
 
 - [ ] 7
 
@@ -93,15 +87,11 @@ Easy·20 mins·Array
 
 Easy·15 mins·Binary
 
-
-
 - [ ] 8
 
 [Diameter of Binary Tree](https://leetcode.com/problems/diameter-of-binary-tree)
 
 Easy·30 mins·Binary Tree
-
-
 
 - [ ] 9
 
@@ -109,15 +99,11 @@ Easy·30 mins·Binary Tree
 
 Easy·20 mins·Linked List
 
-
-
 - [ ] 10
 
 [Maximum Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree)
 
 Easy·15 mins·Binary Tree
-
-
 
 - [ ] 11
 
@@ -125,15 +111,11 @@ Easy·15 mins·Binary Tree
 
 Easy·15 mins·Array
 
-
-
 - [ ] 12
 
 [Meeting Rooms](https://leetcode.com/problems/meeting-rooms)
 
 Easy·20 mins·Array
-
-
 
 ## Week 3
 
@@ -143,15 +125,11 @@ Easy·20 mins·Array
 
 Easy·20 mins·Math
 
-
-
 - [ ] 2
 
 [Backspace String Compare](https://leetcode.com/problems/backspace-string-compare)
 
 Easy·15 mins·Stack
-
-
 
 - [ ] 3
 
@@ -159,15 +137,11 @@ Easy·15 mins·Stack
 
 Easy·15 mins·Binary
 
-
-
 - [ ] 4
 
 [Same Tree](https://leetcode.com/problems/same-tree)
 
 Easy·20 mins·Binary Tree
-
-
 
 - [ ] 5
 
@@ -175,15 +149,11 @@ Easy·20 mins·Binary Tree
 
 Easy·15 mins·Binary
 
-
-
 - [ ] 6
 
 [Longest Common Prefix](https://leetcode.com/problems/longest-common-prefix)
 
 Easy·20 mins·String
-
-
 
 - [ ] 7
 
@@ -191,15 +161,11 @@ Easy·20 mins·String
 
 Easy·15 mins·Binary
 
-
-
 - [ ] 8
 
 [Palindrome Linked List](https://leetcode.com/problems/palindrome-linked-list)
 
 Easy·20 mins·Linked List
-
-
 
 - [ ] 9
 
@@ -207,15 +173,11 @@ Easy·20 mins·Linked List
 
 Easy·20 mins·Array
 
-
-
 - [ ] 10
 
 [Symmetric Tree](https://leetcode.com/problems/symmetric-tree)
 
 Easy·20 mins·Binary Tree
-
-
 
 - [ ] 11
 
@@ -223,23 +185,17 @@ Easy·20 mins·Binary Tree
 
 Easy·15 mins·Binary
 
-
-
 - [ ] 12
 
 [Palindrome Number](https://leetcode.com/problems/palindrome-number)
 
 Easy·15 mins·Math
 
-
-
 - [ ] 13
 
 [Convert Sorted Array to Binary Search Tree](https://leetcode.com/problems/convert-sorted-array-to-binary-search-tree)
 
 Easy·20 mins·Binary Search Tree
-
-
 
 ## Week 4
 
@@ -249,15 +205,11 @@ Easy·20 mins·Binary Search Tree
 
 Easy·15 mins·Binary
 
-
-
 2
 
 [Subtree of Another Tree](https://leetcode.com/problems/subtree-of-another-tree)
 
 Easy·20 mins·Binary Tree
-
-
 
 3
 
@@ -265,15 +217,11 @@ Easy·20 mins·Binary Tree
 
 Easy·20 mins·Array
 
-
-
 4
 
 [Maximum Subarray](https://leetcode.com/problems/maximum-subarray)
 
 Medium·20 mins·Dynamic Programming
-
-
 
 5
 
@@ -281,15 +229,11 @@ Medium·20 mins·Dynamic Programming
 
 Medium·25 mins·Array
 
-
-
 6
 
 [01 Matrix](https://leetcode.com/problems/01-matrix)
 
 Medium·30 mins·Graph
-
-
 
 7
 
@@ -297,15 +241,11 @@ Medium·30 mins·Graph
 
 Medium·30 mins·Heap
 
-
-
 8
 
 [Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters)
 
 Medium·30 mins·String
-
-
 
 9
 
@@ -313,15 +253,11 @@ Medium·30 mins·String
 
 Medium·30 mins·Array
 
-
-
 10
 
 [Binary Tree Level Order Traversal](https://leetcode.com/problems/binary-tree-level-order-traversal)
 
 Medium·20 mins·Binary Tree
-
-
 
 ## Week 5
 
@@ -331,15 +267,11 @@ Medium·20 mins·Binary Tree
 
 Medium·25 mins·Graph
 
-
-
 2
 
 [Evaluate Reverse Polish Notation](https://leetcode.com/problems/evaluate-reverse-polish-notation)
 
 Medium·30 mins·Stack
-
-
 
 3
 
@@ -347,15 +279,11 @@ Medium·30 mins·Stack
 
 Medium·30 mins·Graph
 
-
-
 4
 
 [Implement Trie (Prefix Tree)](https://leetcode.com/problems/implement-trie-prefix-tree)
 
 Medium·35 mins·Trie
-
-
 
 5
 
@@ -363,15 +291,11 @@ Medium·35 mins·Trie
 
 Medium·25 mins·Dynamic Programming
 
-
-
 6
 
 [Product of Array Except Self](https://leetcode.com/problems/product-of-array-except-self)
 
 Medium·30 mins·Array
-
-
 
 7
 
@@ -379,23 +303,17 @@ Medium·30 mins·Array
 
 Medium·20 mins·Stack
 
-
-
 8
 
 [Validate Binary Search Tree](https://leetcode.com/problems/validate-binary-search-tree)
 
 Medium·20 mins·Binary Search Tree
 
-
-
 9
 
 [Number of Islands](https://leetcode.com/problems/number-of-islands)
 
 Medium·25 mins·Graph
-
-
 
 ## Week 6
 
@@ -405,15 +323,11 @@ Medium·25 mins·Graph
 
 Medium·30 mins·Graph
 
-
-
 2
 
 [Search in Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array)
 
 Medium·30 mins·Binary Search
-
-
 
 3
 
@@ -421,15 +335,11 @@ Medium·30 mins·Binary Search
 
 Medium·30 mins·Array
 
-
-
 4
 
 [Permutations](https://leetcode.com/problems/permutations)
 
 Medium·30 mins·Recursion
-
-
 
 5
 
@@ -437,15 +347,11 @@ Medium·30 mins·Recursion
 
 Medium·30 mins·Array
 
-
-
 6
 
 [Lowest Common Ancestor of a Binary Tree](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree)
 
 Medium·25 mins·Binary Tree
-
-
 
 7
 
@@ -453,15 +359,11 @@ Medium·25 mins·Binary Tree
 
 Medium·35 mins·Binary Search
 
-
-
 8
 
 [Accounts Merge](https://leetcode.com/problems/accounts-merge)
 
 Medium·30 mins·Graph
-
-
 
 ## Week 7
 
@@ -471,15 +373,11 @@ Medium·30 mins·Graph
 
 Medium·25 mins·Array
 
-
-
 2
 
 [Word Break](https://leetcode.com/problems/word-break)
 
 Medium·30 mins·Trie
-
-
 
 3
 
@@ -487,15 +385,11 @@ Medium·30 mins·Trie
 
 Medium·30 mins·Dynamic Programming
 
-
-
 4
 
 [String to Integer (atoi)](https://leetcode.com/problems/string-to-integer-atoi)
 
 Medium·25 mins·String
-
-
 
 5
 
@@ -503,15 +397,11 @@ Medium·25 mins·String
 
 Medium·25 mins·Matrix
 
-
-
 6
 
 [Subsets](https://leetcode.com/problems/subsets)
 
 Medium·30 mins·Recursion
-
-
 
 7
 
@@ -519,23 +409,17 @@ Medium·30 mins·Recursion
 
 Medium·20 mins·Binary Tree
 
-
-
 8
 
 [Longest Palindromic Substring](https://leetcode.com/problems/longest-palindromic-substring)
 
 Medium·25 mins·String
 
-
-
 9
 
 [Unique Paths](https://leetcode.com/problems/unique-paths)
 
 Medium·20 mins·Dynamic Programming
-
-
 
 ## Week 8
 
@@ -545,15 +429,11 @@ Medium·20 mins·Dynamic Programming
 
 Medium·25 mins·Binary Tree
 
-
-
 2
 
 [Container With Most Water](https://leetcode.com/problems/container-with-most-water)
 
 Medium·35 mins·Array
-
-
 
 3
 
@@ -561,15 +441,11 @@ Medium·35 mins·Array
 
 Medium·30 mins·Recursion
 
-
-
 4
 
 [Word Search](https://leetcode.com/problems/word-search)
 
 Medium·30 mins·Graph
-
-
 
 5
 
@@ -577,23 +453,17 @@ Medium·30 mins·Graph
 
 Medium·30 mins·String
 
-
-
 6
 
 [Minimum Height Trees](https://leetcode.com/problems/minimum-height-trees)
 
 Medium·30 mins·Graph
 
-
-
 7
 
 [Task Scheduler](https://leetcode.com/problems/task-scheduler)
 
 Medium·35 mins·Heap
-
-
 
 ## Week 9
 
@@ -603,15 +473,11 @@ Medium·35 mins·Heap
 
 Medium·30 mins·Linked List
 
-
-
 2
 
 [Kth Smallest Element in a BST](https://leetcode.com/problems/kth-smallest-element-in-a-bst)
 
 Medium·25 mins·Binary Search Tree
-
-
 
 3
 
@@ -619,15 +485,11 @@ Medium·25 mins·Binary Search Tree
 
 Medium·30 mins·Stack
 
-
-
 4
 
 [House Robber](https://leetcode.com/problems/house-robber)
 
 Medium·25 mins·Dynamic Programming
-
-
 
 5
 
@@ -635,15 +497,11 @@ Medium·25 mins·Dynamic Programming
 
 Medium·30 mins·Array
 
-
-
 6
 
 [Next Permutation](https://leetcode.com/problems/next-permutation)
 
 Medium·30 mins·Recursion
-
-
 
 7
 
@@ -651,15 +509,11 @@ Medium·30 mins·Recursion
 
 Medium·35 mins·Matrix
 
-
-
 8
 
 [Group Anagrams](https://leetcode.com/problems/group-anagrams)
 
 Medium·25 mins·String
-
-
 
 ## Week 10
 
@@ -669,15 +523,11 @@ Medium·25 mins·String
 
 Medium·30 mins·Dynamic Programming
 
-
-
 2
 
 [Design Add and Search Words Data Structure](https://leetcode.com/problems/design-add-and-search-words-data-structure)
 
 Medium·35 mins·Trie
-
-
 
 3
 
@@ -685,15 +535,11 @@ Medium·35 mins·Trie
 
 Medium·30 mins·Graph
 
-
-
 4
 
 [Remove Nth Node From End of List](https://leetcode.com/problems/remove-nth-node-from-end-of-list)
 
 Medium·20 mins·Linked List
-
-
 
 5
 
@@ -701,15 +547,11 @@ Medium·20 mins·Linked List
 
 Medium·30 mins·Graph
 
-
-
 6
 
 [Find the Duplicate Number](https://leetcode.com/problems/find-the-duplicate-number)
 
 Medium·20 mins·Binary
-
-
 
 7
 
@@ -717,15 +559,11 @@ Medium·20 mins·Binary
 
 Medium·30 mins·Heap
 
-
-
 8
 
 [Longest Increasing Subsequence](https://leetcode.com/problems/longest-increasing-subsequence)
 
 Medium·30 mins·Dynamic Programming
-
-
 
 ## Week 11
 
@@ -735,15 +573,11 @@ Medium·30 mins·Dynamic Programming
 
 Medium·30 mins·Graph
 
-
-
 2
 
 [Course Schedule II](https://leetcode.com/problems/course-schedule-ii)
 
 Medium·35 mins·Graph
-
-
 
 3
 
@@ -751,15 +585,11 @@ Medium·35 mins·Graph
 
 Medium·25 mins·Linked List
 
-
-
 4
 
 [Path Sum II](https://leetcode.com/problems/path-sum-ii)
 
 Medium·25 mins·Binary Tree
-
-
 
 5
 
@@ -767,15 +597,11 @@ Medium·25 mins·Binary Tree
 
 Medium·30 mins·Array
 
-
-
 6
 
 [Rotate Array](https://leetcode.com/problems/rotate-array)
 
 Medium·25 mins·Array
-
-
 
 7
 
@@ -783,15 +609,11 @@ Medium·25 mins·Array
 
 Medium·25 mins·Linked List
 
-
-
 8
 
 [Decode String](https://leetcode.com/problems/decode-string)
 
 Medium·30 mins·Stack
-
-
 
 ## Week 12
 
@@ -801,15 +623,11 @@ Medium·30 mins·Stack
 
 Medium·30 mins·Array
 
-
-
 2
 
 [Maximum Width of Binary Tree](https://leetcode.com/problems/maximum-width-of-binary-tree)
 
 Medium·20 mins·Binary Tree
-
-
 
 3
 
@@ -817,15 +635,11 @@ Medium·20 mins·Binary Tree
 
 Medium·30 mins·Heap
 
-
-
 4
 
 [Longest Repeating Character Replacement](https://leetcode.com/problems/longest-repeating-character-replacement)
 
 Medium·30 mins·String
-
-
 
 5
 
@@ -833,15 +647,11 @@ Medium·30 mins·String
 
 Medium·30 mins·Binary Search Tree
 
-
-
 6
 
 [Jump Game](https://leetcode.com/problems/jump-game)
 
 Medium·20 mins·Dynamic Programming
-
-
 
 7
 
@@ -849,23 +659,17 @@ Medium·20 mins·Dynamic Programming
 
 Medium·25 mins·Linked List
 
-
-
 8
 
 [Generate Parentheses](https://leetcode.com/problems/generate-parentheses)
 
 Medium·25 mins·Recursion
 
-
-
 9
 
 [Sort List](https://leetcode.com/problems/sort-list)
 
 Medium·25 mins·Linked List
-
-
 
 ## Week 13
 
@@ -875,15 +679,11 @@ Medium·25 mins·Linked List
 
 Medium·30 mins·Graph
 
-
-
 2
 
 [Minimum Knight Moves](https://leetcode.com/problems/minimum-knight-moves)
 
 Medium·35 mins·Graph
-
-
 
 3
 
@@ -891,15 +691,11 @@ Medium·35 mins·Graph
 
 Medium·35 mins·Array
 
-
-
 4
 
 [Asteroid Collision](https://leetcode.com/problems/asteroid-collision)
 
 Medium·30 mins·Stack
-
-
 
 5
 
@@ -907,15 +703,11 @@ Medium·30 mins·Stack
 
 Medium·25 mins·Math
 
-
-
 6
 
 [Kth Largest Element in an Array](https://leetcode.com/problems/kth-largest-element-in-an-array)
 
 Medium·30 mins·Heap
-
-
 
 7
 
@@ -923,15 +715,11 @@ Medium·30 mins·Heap
 
 Medium·30 mins·Dynamic Programming
 
-
-
 8
 
 [Rotate Image](https://leetcode.com/problems/rotate-image)
 
 Medium·25 mins·Matrix
-
-
 
 ## Week 14
 
@@ -941,15 +729,11 @@ Medium·25 mins·Matrix
 
 Medium·25 mins·Binary Tree
 
-
-
 2
 
 [Design Hit Counter](https://leetcode.com/problems/design-hit-counter)
 
 Medium·30 mins·Queue
-
-
 
 3
 
@@ -957,15 +741,11 @@ Medium·30 mins·Queue
 
 Medium·35 mins·Binary Tree
 
-
-
 4
 
 [Pow(x, n)](https://leetcode.com/problems/powx-n)
 
 Medium·20 mins·Math
-
-
 
 5
 
@@ -973,15 +753,11 @@ Medium·20 mins·Math
 
 Medium·30 mins·Binary Search
 
-
-
 6
 
 [Largest Number](https://leetcode.com/problems/largest-number)
 
 Medium·20 mins·String
-
-
 
 7
 
@@ -989,23 +765,17 @@ Medium·20 mins·String
 
 Medium·25 mins·Dynamic Programming
 
-
-
 8
 
 [Meeting Rooms II](https://leetcode.com/problems/meeting-rooms-ii)
 
 Medium·30 mins·Array
 
-
-
 9
 
 [Reverse Integer](https://leetcode.com/problems/reverse-integer)
 
 Medium·25 mins·Math
-
-
 
 ## Week 15
 
@@ -1015,15 +785,11 @@ Medium·25 mins·Math
 
 Medium·25 mins·Matrix
 
-
-
 2
 
 [Reorder List](https://leetcode.com/problems/reorder-list)
 
 Medium·25 mins·Linked List
-
-
 
 3
 
@@ -1031,15 +797,11 @@ Medium·25 mins·Linked List
 
 Medium·25 mins·String
 
-
-
 4
 
 [Cheapest Flights Within K Stops](https://leetcode.com/problems/cheapest-flights-within-k-stops)
 
 Medium·45 mins·Graph
-
-
 
 5
 
@@ -1047,15 +809,11 @@ Medium·45 mins·Graph
 
 Medium·25 mins·Binary Tree
 
-
-
 6
 
 [3Sum Closest](https://leetcode.com/problems/3sum-closest)
 
 Medium·30 mins·Array
-
-
 
 7
 
@@ -1063,15 +821,11 @@ Medium·30 mins·Array
 
 Medium·25 mins·Linked List
 
-
-
 8
 
 [Find Minimum in Rotated Sorted Array](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array)
 
 Medium·30 mins·Binary Search
-
-
 
 ## Week 16
 
@@ -1081,15 +835,11 @@ Medium·30 mins·Binary Search
 
 Medium·30 mins·Stack
 
-
-
 2
 
 [Combination Sum IV](https://leetcode.com/problems/combination-sum-iv)
 
 Medium·35 mins·Dynamic Programming
-
-
 
 3
 
@@ -1097,15 +847,11 @@ Medium·35 mins·Dynamic Programming
 
 Medium·20 mins·Hash Table
 
-
-
 4
 
 [Non-overlapping Intervals](https://leetcode.com/problems/non-overlapping-intervals)
 
 Medium·20 mins·Array
-
-
 
 5
 
@@ -1113,15 +859,11 @@ Medium·20 mins·Array
 
 Hard·30 mins·String
 
-
-
 6
 
 [Serialize and Deserialize Binary Tree](https://leetcode.com/problems/serialize-and-deserialize-binary-tree)
 
 Hard·40 mins·Binary Tree
-
-
 
 7
 
@@ -1129,15 +871,11 @@ Hard·40 mins·Binary Tree
 
 Hard·35 mins·Stack
 
-
-
 8
 
 [Find Median from Data Stream](https://leetcode.com/problems/find-median-from-data-stream)
 
 Hard·30 mins·Heap
-
-
 
 ## Week 17
 
@@ -1147,15 +885,11 @@ Hard·30 mins·Heap
 
 Hard·45 mins·Graph
 
-
-
 2
 
 [Basic Calculator](https://leetcode.com/problems/basic-calculator)
 
 Hard·40 mins·Stack
-
-
 
 3
 
@@ -1163,15 +897,11 @@ Hard·40 mins·Stack
 
 Hard·45 mins·Binary Search
 
-
-
 4
 
 [Merge k Sorted Lists](https://leetcode.com/problems/merge-k-sorted-lists)
 
 Hard·30 mins·Heap
-
-
 
 5
 
@@ -1179,15 +909,11 @@ Hard·30 mins·Heap
 
 Hard·35 mins·Stack
 
-
-
 6
 
 [Binary Tree Maximum Path Sum](https://leetcode.com/problems/binary-tree-maximum-path-sum)
 
 Hard·35 mins·Binary Tree
-
-
 
 ## Week 18
 
@@ -1197,15 +923,11 @@ Hard·35 mins·Binary Tree
 
 Hard·40 mins·Stack
 
-
-
 2
 
 [Median of Two Sorted Arrays](https://leetcode.com/problems/median-of-two-sorted-arrays)
 
 Hard·40 mins·Binary Search
-
-
 
 3
 
@@ -1213,15 +935,11 @@ Hard·40 mins·Binary Search
 
 Hard·40 mins·Graph
 
-
-
 4
 
 [Longest Valid Parentheses](https://leetcode.com/problems/longest-valid-parentheses)
 
 Hard·35 mins·Stack
-
-
 
 5
 
@@ -1229,15 +947,11 @@ Hard·35 mins·Stack
 
 Hard·40 mins·Trie
 
-
-
 6
 
 [Employee Free Time](https://leetcode.com/problems/employee-free-time)
 
 Hard·35 mins·Array
-
-
 
 ## Week 19
 
@@ -1247,15 +961,11 @@ Hard·35 mins·Array
 
 Hard·40 mins·Graph
 
-
-
 2
 
 [Alien Dictionary](https://leetcode.com/problems/alien-dictionary)
 
 Hard·45 mins·Graph
-
-
 
 3
 
@@ -1263,15 +973,11 @@ Hard·45 mins·Graph
 
 Hard·45 mins·Graph
 
-
-
 4
 
 [Sliding Window Maximum](https://leetcode.com/problems/sliding-window-maximum)
 
 Hard·35 mins·Array
-
-
 
 5
 
@@ -1279,15 +985,11 @@ Hard·35 mins·Array
 
 Hard·40 mins·String
 
-
-
 6
 
 [Reverse Nodes in k-Group](https://leetcode.com/problems/reverse-nodes-in-k-group)
 
 Hard·35 mins·Linked List
-
-
 
 ## Week 20
 
@@ -1297,23 +999,17 @@ Hard·35 mins·Linked List
 
 Hard·40 mins·Matrix
 
-
-
 2
 
 [First Missing Positive](https://leetcode.com/problems/first-missing-positive)
 
 Hard·35 mins·Hash Table
 
-
-
 3
 
 [N-Queens](https://leetcode.com/problems/n-queens)
 
 Hard·40 mins·Recursion
-
-
 
 4
 
