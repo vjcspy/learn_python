@@ -8,38 +8,31 @@
 ## Week 1
 
 - [x] 1 [Two Sum](https://leetcode.com/problems/two-sum) Easy·15 mins·Array
-
 - Use hash table for _optimization_
-
 - [x] 2 [Valid Parentheses](https://leetcode.com/problems/valid-parentheses) Easy·20 mins·Stack
-
 - [x] 3 [Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists) Easy·20 mins·Linked List
 
-- [x] 4 [Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock) Easy·20 mins·Array
+- Logic about linked list
+- Optimize memory
+- Recursive vs Iterative
 
+- [x] 4 [Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock) Easy·20 mins·Array
 - Logic
 - Good for interview question
-
 - [ ] 5 [Valid Palindrome](https://leetcode.com/problems/valid-palindrome) Easy·15 mins·String
-
 - [x] 6 [Invert Binary Tree](https://leetcode.com/problems/invert-binary-tree) Easy·15 mins·Binary Tree
 
+- Loop by using queue
+
 - [ ] 7 [Valid Anagram](https://leetcode.com/problems/valid-anagram) Easy·15 mins·String
-
 - [x] 8 [Binary Search](https://leetcode.com/problems/binary-search) Easy·15 mins·Binary Search
-
 - Good for interview question
-
 - [x] 9 [Flood Fill](https://leetcode.com/problems/flood-fill) Easy·20 mins·Graph
-
 - [x] 10 [Lowest Common Ancestor of a Binary Search Tree](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-search-tree) Medium·20 mins·Binary Search Tree
-
 - Logic
-
+- Recursive vs Iterative
 - [ ] 11 [Balanced Binary Tree](https://leetcode.com/problems/balanced-binary-tree) Easy·15 mins·Binary Tree
-
 - [ ] 12 [Linked List Cycle](https://leetcode.com/problems/linked-list-cycle) Easy·20 mins·Linked List
-
 - [ ] 13 [Implement Queue using Stacks](https://leetcode.com/problems/implement-queue-using-stacks) Easy·20 mins·Stack
 
 ## Week 2
