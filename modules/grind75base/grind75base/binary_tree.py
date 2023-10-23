@@ -5,7 +5,7 @@ class TreeNode:
         self.right = right
 
 
-def build_binary_tree(node: TreeNode, level: int = 1, order: int = 0, data: list = []):
+def build_binary_tree(node: TreeNode = TreeNode(), level: int = 1, order: int = 0, data: list = []):
     value_pos = _cal_level_pos(level=level)
 
     # dieu kien de break recursive
