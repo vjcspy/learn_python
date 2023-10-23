@@ -31,7 +31,11 @@
 - [x] 10 [Lowest Common Ancestor of a Binary Search Tree](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-search-tree) Medium·20 mins·Binary Search Tree
 - Logic
 - Recursive vs Iterative
-- [ ] 11 [Balanced Binary Tree](https://leetcode.com/problems/balanced-binary-tree) Easy·15 mins·Binary Tree
+- [x] 11 [Balanced Binary Tree](https://leetcode.com/problems/balanced-binary-tree) Easy·15 mins·Binary Tree
+- Sử dụng recursive vừa để resolve đồng thời tối ưu việc tính toán.
+
+Recurisve giúp chúng ta có thể tính ngược từ dưới lên và tận dụng kết quả đó để đi ngược lên phía trên. Từ đó, trước khi viết hàm đệ quy, cần phải trả lời được câu hỏi sẽ đệ quy hàm nào để tối ưu?
+
 - [ ] 12 [Linked List Cycle](https://leetcode.com/problems/linked-list-cycle) Easy·20 mins·Linked List
 - [ ] 13 [Implement Queue using Stacks](https://leetcode.com/problems/implement-queue-using-stacks) Easy·20 mins·Stack
 
