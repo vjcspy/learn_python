@@ -39,3 +39,11 @@ poetry install
 pip list
 ```
 
+## Resolve problem between python env and poetry
+We can set to poetry with setting to tell poetry use current existing python env
+```shell
+[virtualenvs]
+prefer-active-python=true
+```
+
+After that, we can use both pip install or poetry add. But we only use poetry add to `pyproject.toml`

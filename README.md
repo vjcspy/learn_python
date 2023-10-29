@@ -1,5 +1,5 @@
 <h1 align="center">Just Practicing Some Algorithms With Python</h1>
-<h3 align="center">Luyện Thuật Toán Và Lưu Lại Dưới Dạng Python Notebook</h4>
+<h3 align="center">Luyện Thuật Toán Và Lưu Lại Dưới Dạng Python Notebook</h3>
 <div align="center">
     <img src="assets/logo.svg" alt="" width="400" />
   <br />
